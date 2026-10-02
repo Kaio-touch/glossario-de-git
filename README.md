@@ -11,7 +11,7 @@ Você **não** tem permissão de escrita aqui. Para contribuir:
 2. Faça um **fork** deste repositório e clone o *seu* fork.
 3. Crie um branch com o nome do termo.
 4. Copie `MODELO.md` para `glossario/<termo>.md` e escreva a entrada.
-5. Empurre para o seu fork e abra um **pull request** para cá, com
+5. Empurre (`git push`) para o seu fork e abra um **pull request** para cá, com
    `closes #N` na descrição, apontando para o seu issue.
 6. Revise o pedido de outra pessoa e responda à revisão que você receber.
 
