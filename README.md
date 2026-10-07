@@ -7,7 +7,7 @@ pessoa. As entradas aceitas são publicadas automaticamente no site.
 
 Você **não** tem permissão de escrita aqui. Para contribuir:
 
-1. Escolha um **issue** ainda sem dono e comente nele dizendo que é seu.
+1. Escolha uma **issue** ainda sem dono e comente nele dizendo que é seu.
 2. Faça um **fork** deste repositório e clone o *seu* fork.
 3. Crie um branch com o nome do termo.
 4. Copie `MODELO.md` para `glossario/<termo>.md` e escreva a entrada.
