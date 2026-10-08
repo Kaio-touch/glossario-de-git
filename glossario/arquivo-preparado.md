@@ -1,9 +1,9 @@
 ---
-title: termo
+title: arquivo-preparado
 ---
 
-# termo
+# arquivo-preparado
 
-(Duas a quatro linhas explicando o termo, com as suas palavras.
-Uma delas precisa trazer um exemplo concreto: um comando, ou uma
-situação em que o termo aparece.)
+um arquivo prerado, quer dizer que ja esta organizado e pronto para receber algumas modificações,
+no git, se quiser, ele pode servir de modelo para criação de outro arquivo novo no projeto,
+um exemplo, o arquivo preparado pode ser modificado no seu conteudo.
